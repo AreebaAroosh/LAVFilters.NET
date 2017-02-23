@@ -65,6 +65,8 @@
         Codec_TrueMotion,
         Codec_VP7,
         Codec_H264MVC,
+        Codec_CineformHD,
+        Codec_MagicYUV,
         /// <summary>
         /// Number of entries (do not use when dynamically linking)
         /// </summary>
